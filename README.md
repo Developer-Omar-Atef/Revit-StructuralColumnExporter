@@ -6,7 +6,7 @@ A C#/.NET add-in for Autodesk Revit that automates the extraction of all structu
 
 ### 🎥 Demo
 
-![Structural Column Exporter Demo](demo.gif)
+![Structural Column Exporter Demo](Demo.gif)
 
 ---
 
